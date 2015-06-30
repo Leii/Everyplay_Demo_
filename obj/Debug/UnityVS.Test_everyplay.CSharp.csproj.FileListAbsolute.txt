@@ -1,0 +1,12 @@
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\qj\Documents\Test_everyplay\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\qj\Documents\Test_everyplay\obj\Debug\UnityVS.Test_everyplay.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\qj\Documents\Test_everyplay\obj\Debug\Assembly-CSharp.dll
+C:\Users\qj\Documents\Test_everyplay\obj\Debug\Assembly-CSharp.pdb
