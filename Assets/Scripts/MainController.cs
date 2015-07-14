@@ -8,12 +8,17 @@ public class MainController : MonoBehaviour {
     public Button btn_stop;
     public Button btn_replay;
     public Text stateTxt;
+	private float pos_x;
+	private float pos_y;
     private float pos_z;
+;
     bool isMove;
 
 	// Use this for initialization
 	void Start () {
         isMove = true;
+		pos_x = this.transform.position.x;
+		pos_y = this.transform.position.y;
         pos_z = this.transform.position.z;
       
         if (Everyplay.IsSupported()&&Everyplay.IsRecordingSupported())
