@@ -18,7 +18,7 @@ public class MainController : MonoBehaviour {
 	void Start () {
         isMove = true;
 		pos_x = this.transform.position.x;
-		pos_y = this.transform.position.y;
+		pos_y = this.transform.position.
         pos_z = this.transform.position.z;
       
         if (Everyplay.IsSupported()&&Everyplay.IsRecordingSupported())
